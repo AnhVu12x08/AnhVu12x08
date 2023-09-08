@@ -21,6 +21,9 @@ I'm committed to continuous learning and staying updated with the latest develop
 
 Feel free to connect with me on social media, browse my repositories, and explore the fascinating world of information security together. Let's make the internet a safer place, one commit at a time!
 
-<div style="overflow: hidden; width: 100%; height: auto;">
-    <img src="https://img.caixin.com/2021-11-29/163818229037238.gif" alt="Animated GIF" style="width: 100%; height: auto;">
-</div>
+
+
+<p align="center">
+  <img width="100%" src="https://d2gbo5uoddvg5.cloudfront.net/images/gifs/cyber-security.gif">
+</p>
+
