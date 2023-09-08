@@ -20,4 +20,8 @@ I'm open to collaborating on cybersecurity and technology projects, so if you ha
 I'm committed to continuous learning and staying updated with the latest developments in the field of information security. Sharing knowledge is essential, and I believe in helping others learn and grow in the cybersecurity domain.
 
 Feel free to connect with me on social media, browse my repositories, and explore the fascinating world of information security together. Let's make the internet a safer place, one commit at a time!
-<img src="https://media3.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300" height="200" alt="Animated GIF">
+
+<div style="text-align:center;">
+    <img src="https://static.wixstatic.com/media/8c0657_479a8d8d44044523b384aad1d7aa7d27~mv2.gif" alt="Animated GIF">
+</div>
+
