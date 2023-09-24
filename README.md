@@ -21,6 +21,5 @@ I'm committed to continuous learning and staying updated with the latest develop
 
 Feel free to connect with me on social media, browse my repositories, and explore the fascinating world of information security together. Let's make the internet a safer place, one commit at a time!
 <p align="center">
-  <img width="100%" src="https://ci3.googleusercontent.com/proxy/pOKctAwYlOrXht7ukqOfYVA3juQ6zpvzE9J2dHij1TFI0xmUWcIUleEh0Z3XX_q_PhBrAywjlD9Fqe2RCDLSW8mhGXXNYCMxjTStx5VMaWb4MqIqZP8vY4pVTl0WfBPfMpXXz7zJ=s0-d-e1-ft#https://www.gstatic.com/gumdrop/files/bard-1-model-transparent-w320px-h320px-2x.gif">
+  <img width="100%" src="https://i.redd.it/bpxxqqvps4h91.gif">
 </p>
-
