@@ -9,6 +9,7 @@ I'm a dedicated and enthusiastic Information Security enthusiast currently pursu
 
 🌐 **Connect with me:**
 - [Facebook](https://www.facebook.com/AnhVu12x08)
+- [Linkedin](https://www.linkedin.com/in/AnhVu12x08/)
 
 🛠️ **Projects:**
 You can find a variety of my projects here on GitHub. From security tools and scripts to educational resources and write-ups, I'm always working on something interesting. Feel free to explore and provide feedback or collaborate on any of my projects.
